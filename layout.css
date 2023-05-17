@@ -1,0 +1,20 @@
+Screen {
+  layout: grid;
+  grid-size: 2;
+  grid-columns: 2fr 1fr;
+}
+
+#main {
+  row-span: 2;
+  
+}
+
+.box {
+  height: 100%;
+  border: solid red;
+}
+
+ShipInfoViewer {
+  layout: grid;
+  grid-size: 1;
+}
