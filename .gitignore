@@ -1,3 +1,6 @@
 users.json
 
 *.pyc
+dist/
+openapi*/
+build/
